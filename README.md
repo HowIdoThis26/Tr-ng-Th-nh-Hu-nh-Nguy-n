@@ -1,4 +1,4 @@
-ORKFLOW: vòng học khép kín
+WORKFLOW: vòng học khép kín
 
 > AI đọc file này TRƯỚC khi bắt đầu mỗi buổi học. Người học chỉ cần học, AI lo ghi chép.
 
