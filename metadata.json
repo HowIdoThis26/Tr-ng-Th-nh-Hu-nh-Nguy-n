@@ -1,0 +1,6 @@
+{
+  "name": "CogniTutor - Phenomenon & Concept Socratic Learning Lab",
+  "description": "Nền tảng AI Tutor học tập theo phương pháp Phenomenon ↔ Concept, truy vết sai lầm (Mistake Autopsy), đồng bộ Second Brain / Obsidian và ma trận so sánh các mô hình AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
